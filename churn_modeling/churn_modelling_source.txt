@@ -1,0 +1,3 @@
+The original data file for the datasets in this folder was sourced from:
+
+https://www.kaggle.com/datasets/shubh0799/churn-modelling/data
